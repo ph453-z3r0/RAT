@@ -1,0 +1,1 @@
+schtasks /create /tn MyApp /tr app.exe /sc daily
