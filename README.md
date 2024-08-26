@@ -61,3 +61,6 @@ This program is intended solely for educational purposes. The author is not resp
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Releases
+Releases will be uploaded soon ! [This is a PROTOTYPE]
